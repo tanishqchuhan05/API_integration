@@ -8,9 +8,7 @@ The following API endpoints are used in this project:
 
 ### **Resources**
 - **/posts** → 100 posts  
-- **/comments** → 500 comments  
-- **/albums** → 100 albums  
-- **/photos** → 5000 photos  
+- **/comments** → 500 comments   
 - **/users** → 10 users  
 
 ### **Routes**
