@@ -1,14 +1,14 @@
-API Integration Assignment
+#API Integration Assignment
 
-Overview
+#Overview
 
 This project integrates with the JSONPlaceholder API to fetch and display user details, posts, and comments. It also provides functionalities to add, edit, and delete posts.
 
-API Endpoints
+#API Endpoints
 
 The following API endpoints are used in this project:
 
-Resources:
+#Resources:
 
 /posts → 100 posts
 
